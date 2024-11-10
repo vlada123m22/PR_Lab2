@@ -1,4 +1,4 @@
-package com.vlada.lab2.controler;
+package com.vlada.lab2.controller;
 
 import com.vlada.lab2.dto.ProductDTO;
 import com.vlada.lab2.model.Product;
@@ -8,7 +8,6 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.sql.Date;
 import java.util.List;
 import java.util.Objects;
 
