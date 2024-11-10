@@ -1,0 +1,10 @@
+ {
+    "name": "Laptop  Super Mega Cool",
+    "price": "99999.99",
+    "characteristics": "{\"brand\": \"Brand F\", \"processor\": \"Intel i7\", \"ram\": \"16GB\", \"storage\": \"512GB SSD\", \"warranty\": \"1 year\"}"
+ }
+ {
+    "name": "Laptop  Super Mega Cool",
+    "price": "99999.99",
+    "characteristics": "{\"brand\": \"Brand F\", \"processor\": \"Intel i7\", \"ram\": \"16GB\", \"storage\": \"512GB SSD\", \"warranty\": \"1 year\"}"
+ }
